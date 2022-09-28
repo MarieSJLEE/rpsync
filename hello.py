@@ -1,0 +1,5 @@
+print("hello!!")
+print("지금은 수업중")
+print("이세진 실습중")
+print("5교시 끝나감")
+print("ㅎ.ㅎ")
